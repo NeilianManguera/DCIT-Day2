@@ -1,0 +1,105 @@
+
+body {
+  background-color: rgb(32, 31, 31);
+  color: white;
+  font-family: arial;
+  font-size: 17px;
+  margin-bottom: 500px;
+}
+.text1 {
+  color: rgb(211, 180, 5);
+}
+.title {
+  color: rgb(211, 180, 5);
+}
+.head-text {
+  display: inline-block;
+  width: 800px;
+  margin-left: 50px;
+}
+.head-img {
+  display: inline-block;
+}
+.pic {
+  width: 150px;
+  border-radius: 50%;
+  border: solid;
+  border-color: rgb(211, 180, 5);
+  margin-top: 20px;
+  margin-left: 40px;
+}
+.myself {
+  font-size: 40px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+.hi {
+  font-size: 27px;
+  color: white;
+  font-weight: bold;
+}
+.im {
+  font-size: 40px;
+  margin-left: 10px;
+  color: white;
+  font-weight: bold;
+}
+.neil {
+  font-size: 40px;
+  margin-left: 10px;
+  color: rgb(211, 180, 5);
+  font-weight: bold;
+}
+.objectives {
+  margin-top: 20px;
+  margin-left: 250px;
+  display: block;
+  width: 800px;
+  display: block;
+}
+.about {
+  margin-top: 20px;
+  margin-left: 250px;
+  display: block;
+  width: 800px;
+  display: block;
+}
+.dlcv {
+  margin-left: 250px;
+  background-color: rgb(64, 63, 63);
+  border: none;
+  color: white;
+  font-size: 15px;
+  height: 32px;
+  width: 150px;
+  border-radius: 16px;
+  cursor: pointer;
+  transition-duration: .15s;
+  display: block;
+}
+.dlcv:hover {
+  opacity: .7;
+}
+.dlcv:active {
+  opacity: .5;
+}
+.edu {
+  margin-top: 30px;
+  margin-bottom: none;
+  margin-left: 250px;
+  display: block;
+  width: 300px;
+}
+
+.edu-school1 {
+  margin-top: none;
+  margin-left: 350px;
+  display: inline-block;
+  width: 300px;
+}
+.edu-school2 {
+  margin-top: none;
+  margin-left: 150px;
+  display: inline-block;
+  width: 300px;
+}
